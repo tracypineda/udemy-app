@@ -42,7 +42,7 @@ a {
 .banner span {
     display: block;
     height: 20px;
-    background: #2196F3;
+    background: orange;
 }
 
 /* =======================================
@@ -57,7 +57,7 @@ a {
 .artists_list .artist_item{
     flex: 1 0 21%; /* explanation below */
     margin: 5px;
-    background-color: blue;
+    background-color: orangered;
 
     display: block;
     height: 290px;
@@ -80,7 +80,7 @@ a {
 
 
 .artists_list .artist_item div{
-    background: #2196F3;
+    background: orchid;
     color: #fff;
     position: absolute;
     bottom: 0;
